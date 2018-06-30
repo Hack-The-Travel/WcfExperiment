@@ -1,0 +1,8 @@
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\bin\Debug\netcoreapp2.0\WcfExperiment.deps.json
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\bin\Debug\netcoreapp2.0\WcfExperiment.runtimeconfig.json
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\bin\Debug\netcoreapp2.0\WcfExperiment.runtimeconfig.dev.json
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\bin\Debug\netcoreapp2.0\WcfExperiment.dll
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\obj\Debug\netcoreapp2.0\WcfExperiment.csprojAssemblyReference.cache
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\obj\Debug\netcoreapp2.0\WcfExperiment.csproj.CoreCompileInputs.cache
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\obj\Debug\netcoreapp2.0\WcfExperiment.AssemblyInfoInputs.cache
+C:\Work\hack_the_travel\WcfExperiment\WcfExperiment\obj\Debug\netcoreapp2.0\WcfExperiment.AssemblyInfo.cs

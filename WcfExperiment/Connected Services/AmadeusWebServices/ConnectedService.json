@@ -1,0 +1,27 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.20406.879",
+  "GettingStartedDocument": {
+    "Uri": "https://go.microsoft.com/fwlink/?linkid=858517"
+  },
+  "ExtendedData": {
+    "Uri": "C:\\Users\\Sergey\\Downloads\\Telegram Desktop\\1ASIWASIAER_PDT_20180630_214309\\1ASIWASIAER_PDT_20180630_214307.wsdl",
+    "Namespace": "AmadeusWebServices",
+    "SelectedAccessLevelForGeneratedClass": "Public",
+    "GenerateMessageContract": false,
+    "ReuseTypesinReferencedAssemblies": true,
+    "ReuseTypesinAllReferencedAssemblies": true,
+    "CollectionTypeReference": {
+      "Item1": "System.Collections.ArrayList",
+      "Item2": "System.Collections.NonGeneric.dll"
+    },
+    "DictionaryCollectionTypeReference": {
+      "Item1": "System.Collections.Generic.Dictionary`2",
+      "Item2": "System.Collections.dll"
+    },
+    "CheckedReferencedAssemblies": [],
+    "InstanceId": null,
+    "Name": "AmadeusWebServices",
+    "Metadata": {}
+  }
+}
